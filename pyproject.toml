@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "peridot_periscope"
-version = "1.0.0"
+version = "1.0.1"
 description = "Unit testing framework for the Peri.dot Programming Language"
 authors = ["Totobird"]
 license = "BSD-3-Clause"
