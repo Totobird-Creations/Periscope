@@ -1,4 +1,4 @@
-# Periscope (1.1)
+# Periscope (1.0)
 
 ![Periscope Logo](https://raw.githubusercontent.com/toto-bird/Periscope/master/logo.png)
 
